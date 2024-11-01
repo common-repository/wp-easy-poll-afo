@@ -1,0 +1,158 @@
+.polls-all{
+	margin-bottom:10px;
+}
+.poll_wrap{
+  width: 100%;
+  margin: 0 auto;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+}
+
+.ans_val{
+	float:right;
+}
+
+.poll_button{
+	background-color: #2697D3 !important; /* Green */
+    border: none !important;
+    color: white !important;
+    padding: 10px 15px !important;
+	border-radius: 2px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    font-size: 14px !important;
+}
+
+.poll_list li::before {
+    content: "" !important;
+}
+
+.poll_list li input,
+.poll_list li label {
+	margin-right:2px;
+}
+
+.poll_list li label {
+	margin: 0 0 0 2px;
+    width: 90%;
+}
+
+.poll_list, .poll_answers{
+	margin:0px;
+	padding:0px;
+}
+
+.poll_answers{
+	margin:0px !important;
+	padding:0px !important;
+}
+
+.poll_list li{
+	list-style-type:none;
+	border:none !important;
+	margin-bottom: 10px;
+	float:left;
+	width:100%;
+}
+
+.poll_submit{
+	display:inline-block;
+	margin:10px 0px !important;
+}
+
+
+.poll_submit input[type="reset"], input[type="button"], input[type="submit"], button {
+    margin-bottom: 0px !important;
+}
+
+.poll_ans_wrap{
+	background-color:#fff;
+	border:1px solid #eee;
+	color: #2f0000 !important;
+	padding:5px;
+}
+
+.poll_wrap ul{
+	margin:0px !important;
+	padding:0px !important;
+}
+
+.poll_answers li::before {
+    content: "" !important;
+}
+
+.poll_answers li{
+	list-style-type:none;
+	border:none !important;
+	margin-bottom:10px;
+}
+
+.view_result{
+	padding:0px 0px 0px 10px;
+}
+
+.poll_status_msg{
+	margin:10px 0px;
+}
+
+.poll_result_link{
+	margin:10px 0px;
+}
+
+.error{
+	width:98%;
+	margin:0px auto;
+	padding:5px;
+	background-color:#F1DEDE;
+	color:#F32425;
+	border-radius:4px;
+}
+.success{
+	width:98%;
+	margin:0px auto;
+	padding:5px;
+	background-color:#E3F4EA;
+	color:#277A2D;
+	border-radius:4px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 8px;
+    font-size: 30px;
+    width: 34px;
+    text-align: center;
+    text-decoration: none;
+	margin:2px;
+}
+.fa:hover {
+    opacity: 0.8;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+} 
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-envelope {
+  background: #fd7e14;
+  color: white;
+}
+/* Style all font awesome icons */

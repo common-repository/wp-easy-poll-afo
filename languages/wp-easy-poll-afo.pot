@@ -1,0 +1,312 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Poll\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-17 12:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.5.5"
+
+#: includes/class-poll.php:36
+msgid "Action"
+msgstr ""
+
+#: view/admin/poll-add.php:28 view/admin/poll-edit.php:31
+msgid "Add More Answers"
+msgstr ""
+
+#: includes/class-poll.php:107
+msgid "Add New Poll"
+msgstr ""
+
+#: includes/class-poll.php:334
+msgid "Answer"
+msgstr ""
+
+#: includes/class-poll.php:32 view/admin/poll-add.php:11
+#: view/admin/poll-edit.php:12
+msgid "Author"
+msgstr ""
+
+#. Author of the plugin
+msgid "aviplugins.com"
+msgstr ""
+
+#: includes/class-poll-widget.php:105
+msgid "Back"
+msgstr ""
+
+#: includes/class-general.php:237
+msgid "Check result after poll ends."
+msgstr ""
+
+#: view/admin/settings.php:23
+msgid ""
+"Check this so that users can view the poll results only after the poll ends."
+msgstr ""
+
+#: includes/class-settings.php:50
+msgid "Data successfully updated."
+msgstr ""
+
+#: includes/class-poll.php:337
+msgid "Date"
+msgstr ""
+
+#: view/admin/settings.php:70
+msgid "Email"
+msgstr ""
+
+#: view/admin/settings.php:71
+msgid "Enable Email In Share"
+msgstr ""
+
+#: view/admin/settings.php:39
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: view/admin/settings.php:55
+msgid "Enable Google Share"
+msgstr ""
+
+#: view/admin/settings.php:63
+msgid "Enable Linked In Share"
+msgstr ""
+
+#: view/admin/settings.php:47
+msgid "Enable Twitter Share"
+msgstr ""
+
+#: includes/class-poll.php:34 view/admin/poll-add.php:19
+#: view/admin/poll-edit.php:20
+msgid "End"
+msgstr ""
+
+#: includes/class-poll.php:251 view/admin/poll-add.php:32
+msgid "Enter poll answer"
+msgstr ""
+
+#: view/admin/poll-add.php:8 view/admin/poll-edit.php:9
+msgid "Enter poll question"
+msgstr ""
+
+#: view/admin/settings.php:38
+msgid "Facebook"
+msgstr ""
+
+#: view/admin/poll-search.php:6
+msgid "Filter"
+msgstr ""
+
+#: view/admin/settings.php:14
+msgid "General"
+msgstr ""
+
+#: view/admin/settings.php:54
+msgid "Google"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-easy-poll-afo/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.aviplugins.com/"
+msgstr ""
+
+#: includes/class-poll.php:30
+msgid "ID"
+msgstr ""
+
+#: includes/class-poll.php:336
+msgid "IP"
+msgstr ""
+
+#: view/admin/settings.php:62
+msgid "Linked In"
+msgstr ""
+
+#: poll-data.php:168
+msgid "New Poll data added successfully"
+msgstr ""
+
+#: includes/class-poll.php:165 includes/class-poll.php:353
+msgid "No records found"
+msgstr ""
+
+#: includes/class-general.php:224
+msgid "Please try again."
+msgstr ""
+
+#: includes/class-poll.php:31 view/admin/poll-search.php:6
+msgid "Poll"
+msgstr ""
+
+#: view/admin/poll-add.php:4
+msgid "Poll Add"
+msgstr ""
+
+#: view/admin/poll-edit.php:54
+msgid ""
+"Poll already started & other than the end date poll cannot be updated now!"
+msgstr ""
+
+#: view/admin/poll-add.php:27 view/admin/poll-edit.php:30
+msgid "Poll Answers"
+msgstr ""
+
+#: view/admin/poll-edit.php:5
+msgid "Poll Edit"
+msgstr ""
+
+#: view/admin/poll-add.php:20 view/admin/poll-edit.php:21
+msgid "Poll end time"
+msgstr ""
+
+#: includes/class-general.php:83
+msgid "Poll is empty"
+msgstr ""
+
+#: poll-data.php:205 shortcodes.php:10 includes/class-general.php:62
+#: includes/class-general.php:232
+msgid "Poll is empty!"
+msgstr ""
+
+#: includes/class-poll-widget.php:66
+msgid "Poll is Inactive"
+msgstr ""
+
+#: poll-data.php:69
+msgid "Poll is started & cannot be updated now!"
+msgstr ""
+
+#: view/admin/poll-add.php:7 view/admin/poll-edit.php:8
+msgid "Poll Question"
+msgstr ""
+
+#: view/admin/poll-report.php:1
+msgid "Poll Report"
+msgstr ""
+
+#: view/admin/settings.php:7
+msgid "Poll Settings"
+msgstr ""
+
+#: view/admin/poll-add.php:16 view/admin/poll-edit.php:17
+msgid "Poll start time"
+msgstr ""
+
+#: poll-data.php:116
+msgid "Poll updated successfully"
+msgstr ""
+
+#: poll-widget.php:31
+msgid "Poll:"
+msgstr ""
+
+#: includes/class-poll.php:292
+msgid "Polls"
+msgstr ""
+
+#: view/admin/poll-edit.php:21 view/admin/poll-edit.php:26
+#: view/admin/settings.php:31 view/admin/settings.php:79
+msgid "Save"
+msgstr ""
+
+#: view/admin/shortcodes.php:4
+msgid "Shortcode"
+msgstr ""
+
+#: view/admin/settings.php:15
+msgid "Social Shares"
+msgstr ""
+
+#: includes/class-poll.php:33 view/admin/poll-add.php:15
+#: view/admin/poll-edit.php:16
+msgid "Start"
+msgstr ""
+
+#: includes/class-poll.php:35 view/admin/poll-add.php:23
+#: view/admin/poll-edit.php:24
+msgid "Status"
+msgstr ""
+
+#: includes/class-poll-widget.php:91 view/admin/poll-add.php:36
+#: view/admin/poll-edit.php:56
+msgid "Submit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is an easy poll plugin. Polls can be created from admin panel and "
+"displayed as widget in frontend. Users can submit vote and view poll results "
+"from frontend."
+msgstr ""
+
+#: view/admin/settings.php:46
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-poll.php:253
+msgid "Upto 10 answers can be added."
+msgstr ""
+
+#: includes/class-poll.php:335
+msgid "User"
+msgstr ""
+
+#: view/admin/settings.php:22
+msgid "View Poll Result After Poll Ends"
+msgstr ""
+
+#: includes/class-poll.php:111
+msgid "View Report"
+msgstr ""
+
+#: includes/class-general.php:119
+msgid "View Result"
+msgstr ""
+
+#: includes/class-general.php:112
+msgid "Visitor"
+msgstr ""
+
+#: includes/class-general.php:76 includes/class-general.php:97
+msgid "Voting is over"
+msgstr ""
+
+#: includes/class-general.php:94
+msgid "Voting not started"
+msgstr ""
+
+#: includes/class-general.php:91
+msgid "Voting started"
+msgstr ""
+
+#: includes/class-general.php:73
+msgid "Voting will start on"
+msgstr ""
+
+#: poll-widget.php:9
+msgid "Widget to display selected poll."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Easy Poll"
+msgstr ""
+
+#: includes/class-general.php:209 includes/class-general.php:221
+msgid "You have already voted for this poll."
+msgstr ""
+
+#: includes/class-general.php:207 includes/class-general.php:219
+msgid "Your vote is successfully added."
+msgstr ""
